@@ -211,171 +211,46 @@ certifications:
     derivatives:
       - year: 2020
         legend:
-          sample:
-          abbreviation:
+          sample: UN43T5300AFXZX
+          abbreviation: HGXXT5300ZZZZZ
           reference:
             - XX: Size
-            - Y: Change for additional hardware
-            - ZZZZ: Country/Market
+            - ZZZZZ: Country/Market
         models:
-          - UN43T5300AFXZX
-          - KU43T5300AFXKR
-          - GU32T5379AUXZG
-          - UA40T5300AUSMM
-          - UA40T5300AUSMZ
-          - UA40T5300AUXEG
-          - UA40T5300AUXKE
-          - UA40T5300AUXLY
-          - UA40T5300AUXMM
-          - UA40T5300AUXMV
-          - UA40T5300AUXTW
-          - UA40T5300AUXUM
-          - UA40T5300AUXZN
-          - UA43T5300AJXZK
-          - UA43T5300AUSMM
-          - UA43T5300AUSMZ
-          - UA43T5300AUXEG
-          - UA43T5300AUXKE
-          - UA43T5300AUXLY
-          - UA43T5300AUXMM
-          - UA43T5300AUXMV
-          - UA43T5300AUXQR
-          - UA43T5300AUXTW
-          - UA43T5300AUXUM
-          - UA43T5300AUXZN
-          - UA43T5400ARSHE
-          - UA43T5400ARXER
-          - UA43T5400ARXFS
-          - UA43T5400ARXHE
-          - UA43T5400ARXSG
-          - UA43T5500AKCXL
-          - UA43T5500AKXXL
-          - UA43T5500ARSHE
-          - UA43T5500ARXFS
-          - UA43T5500ARXHE
-          - UA43T5500ARXSG
-          - UA43T5700ARXER
-          - UA43T5700ARXFS
-          - UA43T5700ARXSG
-          - UA43T5770AUBXL
-          - UA43T5770AUCXL
-          - UA43T5770AUXXL
-          - UA43T6000AGXXP
-          - UA43T6000AKXMR
-          - UA43T6000AKXXD
-          - UA43T6000AKXXM
-          - UA43T6000AKXXS
-          - UA43T6000AKXXT
-          - UA43T6000AKXXV
-          - UA43T6500AGXXP
-          - UA43T6500AKXMR
-          - UA43T6500AKXXD
-          - UA43T6500AKXXM
-          - UA43T6500AKXXS
-          - UA43T6500AKXXT
-          - UA43T6500AKXXV
-          - UA43T6500ASXNZ
-          - UA43TE50AAKCXL
-          - UA43TE50AAKXXL
-          - UA43TE50FAKCXL
-          - UA43TE50FAKXXL
-          - UE32T5300AKXXH
-          - UE32T5300AKXXU
-          - UE32T5300AUXCE
-          - UE32T5300AUXRU
-          - UE32T5300AUXUA
-          - UE32T5300AWXXN
-          - UE32T5302AKXXH
-          - UE32T5305AKXXC
-          - UE32T5370AUXXH
-          - UE32T5370AUXZG
-          - UE32T5370AUXZT
-          - UE32T5372AUXXH
-          - UE32T5375AUXXC
-          - UE40T5300AUSTK
-          - UE40T5300AUXSQ
-          - UE40T5300AUXTK
-          - UE43T5300AUXCE
-          - UE43T5300AUXRU
-          - UE43T5300AUXUA
-          - UN43T5300AGCZD
-          - UN43T5300AGXPE
-          - UN43T5300AGXPR
-          - UN43T5300AGXUG
-          - UN43T5300AGXZB
-          - UN43T5300AGXZD
-          - UN43T5300AGXZS
-          - UN43T5300AKXZL
-          - UN43T5300APXPA
-          - GU32T4309AKXZG
-          - UA32T4300AGXXP
-          - UA32T4300AJXZK
-          - UA32T4300AKXMR
-          - UA32T4300AKXXD
-          - UA32T4300AKXXM
-          - UA32T4300AKXXS
-          - UA32T4300AKXXT
-          - UA32T4300AKXXV
-          - UA32T4300ASXNZ
-          - UA32T4300AWXNZ
-          - UA32T4400ARSFS
-          - UA32T4400ARSHE
-          - UA32T4400ARXER
-          - UA32T4400ARXFS
-          - UA32T4400ARXHE
-          - UA32T4400ARXSG
-          - UA32T4500AKXXL
-          - UA32T4500ARSFS
-          - UA32T4500ARSHE
-          - UA32T4500ARXER
-          - UA32T4500ARXFS
-          - UA32T4500ARXHE
-          - UA32T4500ARXSG
-          - UA32T4550AKXXL
-          - UA32T4700AKXXL
-          - UA32T4700ARSFS
-          - UA32T4700ARXER
-          - UA32T4700ARXFS
-          - UA32T4700ARXSG
-          - UA32T4750AKXXL
-          - UA32T5300AUSMM
-          - UA32T5300AUSMZ
-          - UA32T5300AUXEG
-          - UA32T5300AUXGH
-          - UA32T5300AUXKE
-          - UA32T5300AUXLY
-          - UA32T5300AUXMM
-          - UA32T5300AUXMV
-          - UA32T5300AUXQR
-          - UA32T5300AUXTW
-          - UA32T5300AUXUM
-          - UA32T5300AUXZN
-          - UA32TE40AAKXXL
-          - UA32TE40FAKXXL
-          - UE32T4300AKXXH
-          - UE32T4300AKXXU
-          - UE32T4300AWXXN
-          - UE32T4302AKXXH
-          - UE32T4305AKXXC
-          - UE32T4500AUXCE
-          - UE32T4500AUXRU
-          - UE32T4500AUXUA
-          - UE32T4510AUXCE
-          - UE32T4510AUXRU
-          - UE32T5300AUSTK
-          - UE32T5300AUXMI
-          - UE32T5300AUXSQ
-          - UE32T5300AUXTK
-          - UN32T4300AFXZX
-          - UN32T4300AGCZD
-          - UN32T4300AGXPE
-          - UN32T4300AGXPR
-          - UN32T4300AGXUG
-          - UN32T4300AGXZB
-          - UN32T4300AGXZD
-          - UN32T4300AGXZS
-          - UN32T4300AKXZL
-          - UN32T4300APXPA
+          - GUXXT5379YZZZZ
+          - GUXXT4309YZZZZ
+          - KUXXT5300YZZZZ
+          - UAXXT4300YZZZZ
+          - UAXXT4400YZZZZ
+          - UAXXT4500YZZZZ
+          - UAXXT4550YZZZZ
+          - UAXXT4700YZZZZ
+          - UAXXT4750YZZZZ
+          - UAXXT5300YZZZZ
+          - UAXXT5400YZZZZ
+          - UAXXT5500YZZZZ
+          - UAXXT5700YZZZZ
+          - UAXXT5770YZZZZ
+          - UAXXT6000YZZZZ
+          - UAXXT6500YZZZZ
+          - UAXXTE50AYZZZZ
+          - UAXXTE50FYZZZZ
+          - UAXXTE40AYZZZZ
+          - UAXXTE40FYZZZZ
+          - UEXXT5300YZZZZ
+          - UEXXT5302YZZZZ
+          - UEXXT5305YZZZZ
+          - UEXXT5370YZZZZ
+          - UEXXT5372YZZZZ
+          - UEXXT5375YZZZZ
+          - UEXXT4300YZZZZ
+          - UEXXT4302YZZZZ
+          - UEXXT4305YZZZZ
+          - UEXXT4500YZZZZ
+          - UEXXT4510YZZZZ
+          - UNXXT5300YZZZZ
+          - UNXXT4300YZZZZ
+          - HGXXT5300ZZZZZ
   - chipset: Kant-SU2
     platform: TV
     version: 5.5
@@ -468,3 +343,67 @@ certifications:
           - SP-LSP9TFAXXZ
           - SP-LSP7TFAXXY
           - SP-LSP9TFAXXY
+  - chipset: Kant-M2e
+    platform: Smart Signage
+    version: 4.0
+    signed-cert-pdf: Kant-M2e-Smart_signage-2020-08-14.pdf
+    original-cert-date: 2018-04-20
+    base-model: LH49QMNEBGC
+    derivatives:
+      - year: 2020
+        legend:
+          sample:
+          abbreviation:
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+          - LH13QBREBGC
+          - LH13QBRTBGC
+          - LH43QBNEBGC
+          - LH43QBREBGC
+          - LH43QHREBGC
+          - LH43QMNEBGC
+          - LH43QMREBGC
+          - LH46OMNDPGB
+          - LH46OMNSLGB
+          - LH46VMRUBGB
+          - LH49QBNEBGC
+          - LH49QBREBGC
+          - LH49QHREBGC
+          - LH49QMREBGC
+          - LH55OMNDPGB
+          - LH55OMNSLGB
+          - LH55QBNEBGC
+          - LH55QBREBGC
+          - LH55QBRNBGC
+          - LH55QHREBGC
+          - LH55QMNEBGC
+          - LH55QMREBGC
+          - LH65QBNEBGC
+          - LH65QBREBGC
+          - LH65QBRNBGC
+          - LH65QHREBGC
+          - LH65QMNEBGC
+          - LH65QMREBGC
+          - LH75QBNEBGC
+          - LH75QBREBGC
+          - LH75QBRNBGC
+          - LH75QHREBGC
+          - LH75QMNEBGC
+          - LH75QMREBGC
+          - LH82QENELGC
+          - LH85OHNDKGB
+          - LH85OHNSKGB
+          - LH85QMNEBGC
+          - LH98QBREBGC
+          - LH98QMNEBGC
+          - SBB-SNOWJAU/ZA
+          - SBB-SS08NL1
+          - LH50QBREBGCXEN
+          - LH85QBREBGCXZA
+          - LH50QMREBGCXEN
+          - LH85QMREBGCXZA
+          - LH50QHREBGCXEN
+          - LH24KMATBGCXKR
