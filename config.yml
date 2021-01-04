@@ -540,14 +540,50 @@ certifications:
     version: 6.0
     signed-cert-pdf: Kant-SU2e-TV-2021-01-04.pdf
     original-cert-date: 2021-01-04
-    base-model: 
+    base-model: UN65AU7000FXZX
     derivatives:
       - year: 2021
         legend:
-          sample:
-          abbreviation:
+          sample: UN65AU7000FXZX
+          abbreviation: GUXXAU7179ZZZZ
           reference:
             - XX: Size
-            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+          - GUXXAU7179ZZZZ
+          - GUXXAU7199ZZZZ
+          - KUXXUA7000ZZZZ
+          - KUXXUA7050ZZZZ
+          - KUXXUA7070ZZZZ
+          - UAXXAU7000ZZZZ
+          - UAXXAU7000ZZZZ
+          - UAXXAU7000ZZZZ
+          - UAXXAU7000ZZZZ
+          - UAXXAU7000ZZZZ
+          - UAXXAU7100ZZZZ
+          - UAXXAU7200ZZZZ
+          - UAXXAU7700ZZZZ
+          - UAXXAU7700ZZZZ
+          - UAXXAU7700ZZZZ
+          - UAXXAU7700ZZZZ
+          - UAXXAUE60AZZZZ
+          - UAXXAUE70AZZZZ
+          - UEXXAU7000ZZZZ
+          - UEXXAU7100ZZZZ
+          - UEXXAU7100ZZZZ
+          - UEXXAU7102ZZZZ
+          - UEXXAU7105ZZZZ
+          - UEXXAU7170ZZZZ
+          - UEXXAU7172ZZZZ
+          - UEXXAU7175ZZZZ
+          - UEXXAU7190ZZZZ
+          - UEXXAU7500ZZZZ
+          - UEXXAU7200ZZZZ
+          - UEXXAU7700ZZZZ
+          - UNXXAU7000ZZZZ
+          - UNXXAU7000ZZZZ
+          - UNXXAU7000ZZZZ
+          - UNXXAU7000ZZZZ
+          - UNXXAU7700ZZZZ
+          - UTV-UWS10/A
+          - UTV-UWS11/A
