@@ -1,10 +1,10 @@
 certifications:
-  - chipset: Nike L
+  - chipset: Nike-L
     platform: TV
     version: 5.5
     signed-cert-pdf: Nike-L-TV-2020-01-15.pdf
     original-cert-date: 2020-01-15
-    base-model:
+    base-model: 
     derivatives:
       - year: 2020
         legend:
@@ -15,6 +15,60 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+  - chipset: Nike-L
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Nike-L-TV-2020-11-30.pdf
+    original-cert-date: 2020-11-30
+    base-model: QN65Q60AAFXZA
+    derivatives:
+      - year: 2021
+        legend:
+          sample: QN65Q60AAFXZA
+          abbreviation: QNXXQ60YZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+          - QNXXQ60YZZZZ
+          - GQXXQ60YZZZZ
+          - GQXXQ67YZZZZ
+          - QAXXQ60YZZZZ
+          - QAXXQ65YZZZZ
+          - QAXXQ6AYZZZZ
+          - QEXXQ60YZZZZ
+          - QEXXQ67YZZZZ
+          - QAXXQ60YZZZZ
+          - QNXXQ6DYZZZZ
+          - QNXXQ62YZZZZ
+          - QNXXQ60YZZZZ
+          - KQXXQY60ZZZZ
+          - KQXXQY65ZZZZ
+          - UEXXAU9000ZZZZ
+          - GUXXAU9079ZZZZ
+          - GUXXAU9089ZZZZ
+          - GUXXAU8079ZZZZ
+          - KUXXUA9000ZZZZ
+          - KUXXUA9500ZZZZ
+          - KUXXUA8000ZZZZ
+          - KUXXUA9070ZZZZ
+          - KUXXUA8090ZZZZ
+          - UAXXAU9000ZZZZ
+          - UAXXAU9070ZZZZ
+          - UAXXAU8000ZZZZ
+          - UAXXAU8100ZZZZ
+          - UAXXAU8800ZZZZ
+          - UAXXAU8200ZZZZ
+          - UEXXAU9002ZZZZ
+          - UEXXAU9000ZZZZ
+          - UEXXAU9070ZZZZ
+          - UEXXAU9010ZZZZ
+          - UEXXAU8000ZZZZ
+          - UNXXAU9000ZZZZ
+          - UNXXAU8000ZZZZ
+          - UNXXAU8200ZZZZ
+          - UNXXAU800DZZZZ
   - chipset: Nike-M
     platform: TV
     version: 5.5
@@ -202,6 +256,76 @@ certifications:
           - HGXXTQ800YZZZZ
           - QAXXQ7ATYZZZZ
           - HGXXTS010YZZZZ
+  - chipset: Nike-M2
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Nike-M2-TV-2020-12-02.pdf
+    original-cert-date: 2020-12-02
+    base-model: QN65Q80AAFXZA
+    derivatives:
+      - year: 2021
+        legend:
+          sample: QN65Q80AAFXZA
+          abbreviation: QNXXQ80AYZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+          - GQXXQ80AYZZZZ
+          - KQXXQA80AYZZZZ
+          - QAXXQ80AYZZZZ
+          - QNXXQ80AYZZZZ
+          - QEXXQ80AYZZZZ
+          - QNXXQ8DAYZZZZ
+          - QNXXQ82AYZZZZ
+          - GQXXQ70AYZZZZ
+          - GQXXQ77AYZZZZ
+          - QAXXQ70AYZZZZ
+          - QAXXQ7AAYZZZZ
+          - QEXXQ70AYZZZZ
+          - QEXXQ74AYZZZZ
+          - QEXXQ75AYZZZZ
+          - QEXXQ77AYZZZZ
+          - QNXXQ70AYZZZZ
+          - QNXXQ72AYZZZZ
+          - QNXXQ7DAYZZZZ
+          - GQXXQN85AYZZZZ
+          - GQXXQS85AYZZZZ
+          - KQXXQNA85YZZZZ
+          - KQXXQNA88YZZZZ
+          - KQXXQSA85YZZZZ
+          - QAXXQN85AYZZZZ
+          - QAXXQS85AYZZZZ
+          - QEXXQN85AYZZZZ
+          - QEXXQN87AYZZZZ
+          - QEXXQS85AYZZZZ
+          - QNXXQN85AYZZZZ
+          - QNXXQN85DYZZZZ
+          - QNXXQN88AYZZZZ
+          - QNXXQS85AYZZZZ
+          - QNXXQS85DYZZZZ
+          - GQXXQN90AYZZZZ
+          - GQXXQN94AYZZZZ
+          - GQXXQN95AYZZZZ
+          - KQXXQNA90YZZZZ
+          - QAXXQN90AYZZZZ
+          - QEXXQN90AYZZZZ
+          - QEXXQN91AYZZZZ
+          - QEXXQN92AYZZZZ
+          - QEXXQN93AYZZZZ
+          - QNXXQN90AYZZZZ
+          - QNXXQN9DAYZZZZ
+          - GQXXQN95AYZZZZ
+          - QNXXQN95AYZZZZ
+          - QEXXQN95AYZZZZ
+          - QAXXQN95AYZZZZ
+          - KQXXQNA95YZZZZ 
+          - GQXXLS03AYZZZZ
+          - KQXXLSA03YZZZZ
+          - QAXXLS03AYZZZZ
+          - QEXXLS03AYZZZZ
+          - QNXXLS03AYZZZZ
   - chipset: Kant-S2
     platform: TV
     version: 5.5
@@ -313,6 +437,10 @@ certifications:
           - UNXXTU700DZZZZ
           - LSXXAM50YYZZZZ
           - LSXXAM70YYZZZZ
+          - GQ32LS03TCUXZG
+          - QE32LS03TCUXUA
+          - KQ32LST03BFXKR
+          - QA32LS03TBJXZK 
   - chipset: Kant-SU2 (Projector)
     platform: TV
     version: 5.5
@@ -407,3 +535,19 @@ certifications:
           - LH85QMREBGCXZA
           - LH50QHREBGCXEN
           - LH24KMATBGCXKR
+  - chipset: Kant-SU2e
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Kant-SU2e-TV-2021-01-04.pdf
+    original-cert-date: 2021-01-04
+    base-model: 
+    derivatives:
+      - year: 2021
+        legend:
+          sample:
+          abbreviation:
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
