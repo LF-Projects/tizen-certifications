@@ -587,3 +587,30 @@ certifications:
           - UNXXAU7700ZZZZ
           - UTV-UWS10/A
           - UTV-UWS11/A
+  - chipset: Oscar-P
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Oscar-P-TV-2021-01-05.pdf
+    original-cert-date: 2021-01-05
+    base-model: QN65QN800AFXZA
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+          - GQXXQN800AZZZZ
+          - KQXXQNA800ZZZZ
+          - QAXXQN800AZZZZ
+          - QEXXQN800AZZZZ
+          - QNXXQN800AZZZZ
+          - QNXXQN850AZZZZ
+          - GQXXQN900AZZZZ
+          - KQXXQNA900ZZZZ
+          - QAXXQN900AZZZZ
+          - QEXXQN900AZZZZ
+          - QNXXQN900AZZZZ
+          - MNA110MS1ACXKR
