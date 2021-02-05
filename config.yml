@@ -256,6 +256,8 @@ certifications:
           - HGXXTQ800YZZZZ
           - QAXXQ7ATYZZZZ
           - HGXXTS010YZZZZ
+          - QEXXLST7TYZZZZ
+          - LHXXBHTELEZZZZ
   - chipset: Nike-M2
     platform: TV
     version: 6.0
@@ -587,6 +589,7 @@ certifications:
           - UNXXAU7700ZZZZ
           - UTV-UWS10/A
           - UTV-UWS11/A
+          - UNXXAU8000ZZZZ
   - chipset: Oscar-P
     platform: TV
     version: 6.0
