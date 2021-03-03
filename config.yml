@@ -69,6 +69,12 @@ certifications:
           - UNXXAU8000ZZZZ
           - UNXXAU8200ZZZZ
           - UNXXAU800DZZZZ
+          - GQ50Q72AYZZZZ
+          - GQ50Q73AYZZZZ
+          - GQ50Q74AYZZZZ
+          - GQ43Q72AYZZZZ
+          - GQ43Q73AYZZZZ
+          - GQ43Q74AYZZZZ
   - chipset: Nike-M
     platform: TV
     version: 5.5
@@ -258,6 +264,24 @@ certifications:
           - HGXXTS010YZZZZ
           - QEXXLST7TYZZZZ
           - LHXXBHTELEZZZZ
+          - UN86TU9010ZZZZ
+          - QNXXLST9TYZZZZ
+  - chipset: Nike-M
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Nike-M-TV-2021-03-03.pdf
+    original-cert-date: 2021-03-03
+    base-model: 
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: QNXXQ70TYZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
   - chipset: Nike-M2
     platform: TV
     version: 6.0
@@ -590,6 +614,8 @@ certifications:
           - UTV-UWS10/A
           - UTV-UWS11/A
           - UNXXAU8000ZZZZ
+          - QN32Q60AYZZZZ
+          - QN32Q50AYZZZZ
   - chipset: Oscar-P
     platform: TV
     version: 6.0
@@ -617,3 +643,18 @@ certifications:
           - QEXXQN900AZZZZ
           - QNXXQN900AZZZZ
           - MNA110MS1ACXKR
+  - chipset: Muse-M (Smart Signage)
+    platform: Smart Signage
+    version: 6.0
+    signed-cert-pdf: Muse-M-Smart_Signage-2021-02-25.pdf
+    original-cert-date: 2021-02-25
+    base-model: WMA
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
