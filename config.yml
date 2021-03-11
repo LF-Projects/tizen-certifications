@@ -31,50 +31,49 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
-          - QNXXQ60YZZZZ
-          - GQXXQ60YZZZZ
-          - GQXXQ67YZZZZ
-          - QAXXQ60YZZZZ
-          - QAXXQ65YZZZZ
-          - QAXXQ6AYZZZZ
-          - QEXXQ60YZZZZ
-          - QEXXQ67YZZZZ
-          - QAXXQ60YZZZZ
-          - QNXXQ6DYZZZZ
-          - QNXXQ62YZZZZ
-          - QNXXQ60YZZZZ
-          - KQXXQY60ZZZZ
-          - KQXXQY65ZZZZ
-          - UEXXAU9000ZZZZ
-          - GUXXAU9079ZZZZ
-          - GUXXAU9089ZZZZ
-          - GUXXAU8079ZZZZ
-          - KUXXUA9000ZZZZ
-          - KUXXUA9500ZZZZ
-          - KUXXUA8000ZZZZ
-          - KUXXUA9070ZZZZ
-          - KUXXUA8090ZZZZ
-          - UAXXAU9000ZZZZ
-          - UAXXAU9070ZZZZ
-          - UAXXAU8000ZZZZ
-          - UAXXAU8100ZZZZ
-          - UAXXAU8800ZZZZ
-          - UAXXAU8200ZZZZ
-          - UEXXAU9002ZZZZ
-          - UEXXAU9000ZZZZ
-          - UEXXAU9070ZZZZ
-          - UEXXAU9010ZZZZ
-          - UEXXAU8000ZZZZ
-          - UNXXAU9000ZZZZ
-          - UNXXAU8000ZZZZ
-          - UNXXAU8200ZZZZ
-          - UNXXAU800DZZZZ
-          - GQ50Q72AYZZZZ
-          - GQ50Q73AYZZZZ
-          - GQ50Q74AYZZZZ
           - GQ43Q72AYZZZZ
           - GQ43Q73AYZZZZ
           - GQ43Q74AYZZZZ
+          - GQ50Q72AYZZZZ
+          - GQ50Q73AYZZZZ
+          - GQ50Q74AYZZZZ
+          - GQXXQ60AYZZZZ
+          - GQXXQ67AYZZZZ
+          - GUXXAU8079ZZZZ
+          - GUXXAU9079ZZZZ
+          - GUXXAU9089ZZZZ
+          - KQXXQA60YZZZZ
+          - KQXXQA65YZZZZ
+          - KUXXUA8000ZZZZ
+          - KUXXUA8090ZZZZ
+          - KUXXUA9000ZZZZ
+          - KUXXUA9070ZZZZ
+          - KUXXUA9500ZZZZ
+          - QAXXQ60AYZZZZ
+          - QAXXQ65AYZZZZ
+          - QAXXQ6AAYZZZZ
+          - QEXXQ60AYZZZZ
+          - QEXXQ67AYZZZZ
+          - QNXXQ60AYZZZZ
+          - QNXXQ62AYZZZZ
+          - QNXXQ6DAYZZZZ
+          - UAXXAU8000ZZZZ
+          - UAXXAU8100ZZZZ
+          - UAXXAU8200ZZZZ
+          - UAXXAU8800ZZZZ
+          - UAXXAU8200ZZZZ 
+          - UAXXAU8800ZZZZ
+          - UAXXAU9000ZZZZ
+          - UAXXAU9070ZZZZ
+          - UEXXAU8000ZZZZ
+          - UEXXAU9000ZZZZ
+          - UEXXAU9002ZZZZ
+          - UEXXAU9010ZZZZ
+          - UEXXAU9070ZZZZ
+          - UNXXAU8000ZZZZ
+          - UNXXAU800DZZZZ
+          - UNXXAU8200ZZZZ
+          - UNXXAU9000ZZZZ
   - chipset: Nike-M
     platform: TV
     version: 5.5
@@ -497,6 +496,8 @@ certifications:
           - SP-LSP9TFAXXZ
           - SP-LSP7TFAXXY
           - SP-LSP9TFAXXY
+          - SP-LSP9TGAXZD
+          - SP-LSP7TGAXZD
   - chipset: Kant-M2e
     platform: Smart Signage
     version: 4.0
@@ -643,6 +644,11 @@ certifications:
           - QEXXQN900AZZZZ
           - QNXXQN900AZZZZ
           - MNA110MS1ACXKR
+          - GQXXQN700AZZZZ
+          - KQXXQNA700ZZZZ
+          - QAXXQN700AZZZZ
+          - QEXXQN700AZZZZ
+          - QNXXQN700AZZZZ
   - chipset: Muse-M (Smart Signage)
     platform: Smart Signage
     version: 6.0
