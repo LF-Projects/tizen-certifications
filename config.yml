@@ -664,3 +664,18 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
+  - chipset: Oscar-P (Smart Signage)
+    platform: Smart Signage
+    version: 6.0
+    signed-cert-pdf: Oscar-P-Smart_Signage-2021-04-01.pdf
+    original-cert-date: 2021-04-01
+    base-model:  QP65A-8K
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
