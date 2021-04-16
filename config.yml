@@ -74,6 +74,7 @@ certifications:
           - UNXXAU800DZZZZ
           - UNXXAU8200ZZZZ
           - UNXXAU9000ZZZZ
+          - QAXXQX1AAJXXZ
   - chipset: Nike-M
     platform: TV
     version: 5.5
@@ -351,6 +352,7 @@ certifications:
           - QAXXLS03AYZZZZ
           - QEXXLS03AYZZZZ
           - QNXXLS03AYZZZZ
+          - QAXXQX2AAJXXZ
   - chipset: Kant-S2
     platform: TV
     version: 5.5
@@ -562,6 +564,9 @@ certifications:
           - LH85QMREBGCXZA
           - LH50QHREBGCXEN
           - LH24KMATBGCXKR
+          - HGXXAJ690YZZZZ
+          - HGXXNJ690YZZZZ
+          - HGXXEJ690YZZZZ
   - chipset: Kant-SU2e
     platform: TV
     version: 6.0
@@ -649,6 +654,8 @@ certifications:
           - QAXXQN700AZZZZ
           - QEXXQN700AZZZZ
           - QNXXQN700AZZZZ
+          - MNA110MS1AZZZZ
+          - MNA99MS1AYZZZZ
   - chipset: Muse-M (Smart Signage)
     platform: Smart Signage
     version: 6.0
