@@ -686,3 +686,18 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
+  - chipset: Oscar-S
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Oscar-S-TV-2021-04-28.pdf
+    original-cert-date: 2021-04-28
+    base-model:  QN700A
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
