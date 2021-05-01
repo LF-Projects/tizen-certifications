@@ -501,6 +501,114 @@ certifications:
           - SP-LSP9TGAXZD
           - SP-LSP7TGAXZD
   - chipset: Kant-M2e
+    platform: TV
+    version: 4.0
+    signed-cert-pdf: Kant-M2e-TV-2018-01-24.pdf
+    original-cert-date: 2018-01-24
+    base-model: UN65NU7100FXZA
+    derivatives:
+      - year: 2018
+        legend:
+          sample: UN65NU7100FXZA
+          abbreviation: UNXXNU7100ZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+          - UAXXNU7100ZZZZ
+          - UAXXNU7103ZZZZ
+          - UAXXNU7300ZZZZ
+          - UAXXNU7400ZZZZ
+          - UAXXNU7470ZZZZ
+          - UAXXNU7500ZZZZ
+          - UEXXNU7100ZZZZ
+          - UEXXNU7102ZZZZ
+          - UEXXNU7105ZZZZ
+          - UEXXNU7120ZZZZ
+          - UEXXNU7122ZZZZ
+          - UEXXNU7125ZZZZ
+          - UEXXNU7140ZZZZ
+          - UEXXNU7170ZZZZ
+          - UEXXNU7172ZZZZ
+          - UEXXNU7175ZZZZ
+          - UEXXNU7179ZZZZ
+          - UEXXNU7190ZZZZ
+          - UEXXNU7192ZZZZ
+          - UEXXNU7195ZZZZ
+          - UEXXNU7199ZZZZ
+          - UEXXNU7300ZZZZ
+          - UEXXNU7302ZZZZ
+          - UEXXNU7305ZZZZ
+          - UEXXNU7370ZZZZ
+          - UEXXNU7372ZZZZ
+          - UEXXNU7375ZZZZ
+          - UEXXNU7379ZZZZ
+          - UEXXNU7400ZZZZ
+          - UEXXNU7402ZZZZ
+          - UEXXNU7405ZZZZ
+          - UEXXNU7409ZZZZ
+          - UEXXNU7440ZZZZ
+          - UEXXNU7442ZZZZ
+          - UEXXNU7445ZZZZ
+          - UEXXNU7449ZZZZ
+          - UEXXNU7450ZZZZ
+          - UEXXNU7452ZZZZ
+          - UEXXNU7455ZZZZ
+          - UEXXNU7459ZZZZ
+          - UEXXNU7470ZZZZ
+          - UEXXNU7472ZZZZ
+          - UEXXNU7475ZZZZ
+          - UEXXNU7479ZZZZ
+          - UEXXNU7500ZZZZ
+          - UEXXNU7502ZZZZ
+          - UEXXNU7505ZZZZ
+          - UEXXNU7509ZZZZ
+          - UEXXNU7640ZZZZ
+          - UEXXNU7642ZZZZ
+          - UEXXNU7645ZZZZ
+          - UEXXNU7650ZZZZ
+          - UEXXNU7652ZZZZ
+          - UEXXNU7655ZZZZ
+          - UEXXNU7670ZZZZ
+          - UEXXNU7672ZZZZ
+          - UEXXNU7675ZZZZ
+          - UNXXNU7100ZZZZ
+          - UNXXNU710DZZZZ
+          - UNXXNU7200ZZZZ
+          - UNXXNU7150ZZZZ
+          - UNXXNU7170ZZZZ
+          - UNXXNU7190ZZZZ
+          - UNXXNU7300ZZZZ
+          - UNXXNU730DZZZZ
+          - UNXXNU7400ZZZZ
+          - UNXXNU7500ZZZZ
+          - HGXXNJ670UZZZZ
+          - HGXXEJ670UZZZZ
+          - HGXXAJ670UZZZZ
+          - HGXXNJ690UZZZZ
+          - HGXXEJ690UZZZZ
+          - HGXXAJ690UZZZZ
+      - year: 2020
+        legend:
+          sample: UN65NU7100FXZA
+          abbreviation: UNXXNU7100ZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+          - HGXXAJ690YZZZZ
+          - HGXXNJ690YZZZZ
+          - HGXXEJ690YZZZZ
+          - HGXXAT670UZZZZ
+          - HGXXET670UZZZZ
+          - HGXXNT670UZZZZ
+          - HGXXAT690UZZZZ
+          - HGXXET690UZZZZ
+          - HGXXNT690UZZZZ
+          - HGXXNT678UZZZZ
+  - chipset: Kant-M2e
     platform: Smart Signage
     version: 4.0
     signed-cert-pdf: Kant-M2e-Smart_signage-2020-08-14.pdf
@@ -564,9 +672,6 @@ certifications:
           - LH85QMREBGCXZA
           - LH50QHREBGCXEN
           - LH24KMATBGCXKR
-          - HGXXAJ690YZZZZ
-          - HGXXNJ690YZZZZ
-          - HGXXEJ690YZZZZ
   - chipset: Kant-SU2e
     platform: TV
     version: 6.0
@@ -681,11 +786,16 @@ certifications:
       - year: 2021
         legend:
           sample: 
-          abbreviation: 
+          abbreviation:
           reference:
             - XX: Size
             - ZZZZ: Country/Market
         models:
+          - SBB-SNOWAAE/KR
+          - LH65QPA8BGCXXX
+          - LH75QPA8BGCXXX
+          - LH85QPA8BGCXXX
+          - LH85QPA8BCCXEN
   - chipset: Oscar-S
     platform: TV
     version: 6.0
