@@ -813,3 +813,18 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
+  - chipset: Kant-SU2e (Projector)
+    platform: TV
+    version: 6.0
+    signed-cert-pdf: Kant-SU2e_Projector-TV-2021-08-02.pdf
+    original-cert-date: 2021-08-02
+    base-model:  LSP3
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:

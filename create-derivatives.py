@@ -17,6 +17,10 @@ for config,config_data in all_certifications.items():
     print('Attempted to read invalid block "%s", skipping' % config)
     continue
 
+  # Set up the certification index MD file
+  index_file = open('certifications.md','w')
+  index_file.write('# Tizen Certifications\n')
+
   for certification in config_data:
 
     # Step through the derivatives
@@ -35,6 +39,12 @@ for config,config_data in all_certifications.items():
 
     # If there is a base model, there are derivatives
     if 'base-model' in certification and certification['base-model']:
+
+      # Write the base model to the index
+      index_file.write('## %s\n\n' % certification['chipset'])
+      index_file.write('**Platform:** %s\n\n' % certification['platform'])
+      index_file.write('**Base model:** %s\n\n' % certification['base-model'])
+      index_file.write('**Original certification date:** %s\n\n' % certification['original-cert-date'])
 
       # Set up the derivative PDF formatting
       pdf = FPDF('P','in','Letter')
@@ -66,6 +76,8 @@ for config,config_data in all_certifications.items():
 
         pdf.ln(.25)
 
+        index_file.write('### Derivatives (%s)\n\n' % derivative['year'])
+
         # If there's a legend, print it
         if 'legend' in derivative and derivative['legend']:
           if derivative['legend']['sample']:
@@ -76,6 +88,10 @@ for config,config_data in all_certifications.items():
                 derivative['legend']['abbreviation']), 1, 2, 'C')
             pdf.set_font('Arial','',12)
 
+            index_file.write('**%s** » **%s**\n\n' % (
+                derivative['legend']['sample'],
+                derivative['legend']['abbreviation']))
+
             for reference_map in derivative['legend']['reference']:
 
               [(abbreviation, definition)] = reference_map.items()
@@ -83,15 +99,21 @@ for config,config_data in all_certifications.items():
               pdf.cell(1,.25,abbreviation, 1, 0, 'C')
               pdf.cell(3,.25,definition, 1, 1, 'L')
 
+              index_file.write('* *%s*: %s\n' % (abbreviation, definition))
+
             pdf.ln(.5)
+            index_file.write('\n')
 
         pdf.set_font('Arial','',12)
 
         # Print the models
+
         if 'models' in derivative and derivative['models']:
 
           number_derivatives += len(set(derivative['models']))
           newline = True
+
+          index_file.write('#### %s models\n\n' % number_derivatives)
 
           for model in sorted(set(derivative['models'])):
             if newline:
@@ -101,8 +123,13 @@ for config,config_data in all_certifications.items():
               pdf.cell(3,.25," - %s" % model, 0, 1, 'L')
               newline = True
 
+            index_file.write('* %s\n' % model)
+
         else:
           pdf.cell(0,.25,'None specified', 0, 1, 'L')
+          index_file.write('*No models specified*\n')
+
+        index_file.write('\n')
 
       # Create a temporary PDF and add it to the certification PDF
       pdf.output('.derivatives.tmp','F').encode('latin-1')
@@ -134,3 +161,5 @@ for config,config_data in all_certifications.items():
     merged_pdf.write(output_file)
     print(' » %s\n' % output_file)
 
+  # Close the index
+  index_file.close()
