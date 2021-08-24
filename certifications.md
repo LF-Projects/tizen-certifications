@@ -783,5 +783,12 @@
 
 ### Derivatives (2021)
 
-*No models specified*
+#### 6 models
+
+* SP-LSBP3LAXKR
+* SP-LSP3BLAXRU
+* SP-LSP3BLAXXE
+* SP-LSP3BLAXXY
+* SP-LSP3BLAXZA
+* SP-LSP3BLAXZS
 
