@@ -834,4 +834,19 @@ certifications:
           - SP-LSBP3LAXKR
           - SP-LSP3BLAXXY
           - SP-LSP3BLAXZS
+  - chipset: FLYBOOK Screen T21 (RPi4) (Kiosk)
+    platform: IoT
+    version: 6.0
+    signed-cert-pdf: Flybook-Screen-T21-IoT-2021-10-28.pdf
+    original-cert-date: 2021-10-28
+    base-model: FLYBOOK Screen T21
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
 

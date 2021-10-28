@@ -792,3 +792,15 @@
 * SP-LSP3BLAXZA
 * SP-LSP3BLAXZS
 
+## FLYBOOK Screen T21 (RPi4) (Kiosk)
+
+**Platform:** IoT
+
+**Base model:** FLYBOOK Screen T21
+
+**Original certification date:** 2021-10-28
+
+### Derivatives (2021)
+
+*No models specified*
+
