@@ -804,3 +804,15 @@
 
 *No models specified*
 
+## Anchor5 ARM Cortex-A9 Quad-core
+
+**Platform:** IoT
+
+**Base model:** Cozyma Massage Chair CMC-TX1
+
+**Original certification date:** 2021-11-04
+
+### Derivatives (2021)
+
+*No models specified*
+

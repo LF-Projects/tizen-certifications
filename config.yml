@@ -849,4 +849,18 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
-
+  - chipset: Anchor5 ARM Cortex-A9 Quad-core
+    platform: IoT
+    version: 6.0
+    signed-cert-pdf: Bokjung_Scale_Co-CMC-IoT-2021-11-04.pdf
+    original-cert-date: 2021-11-04
+    base-model: Cozyma Massage Chair CMC-TX1
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
