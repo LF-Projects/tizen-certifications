@@ -1,5 +1,5 @@
 # Tizen Certifications
-## Nike-L
+## Samsung Nike-L
 
 **Platform:** TV
 
@@ -60,7 +60,7 @@
 * UNXXAU8200ZZZZ
 * UNXXAU9000ZZZZ
 
-## Nike-M
+## Samsung Nike-M
 
 **Platform:** TV
 
@@ -255,7 +255,7 @@
 * QTV-QWJ00/T
 * UN86TU9010ZZZZ
 
-## Nike-M2
+## Samsung Nike-M2
 
 **Platform:** TV
 
@@ -328,7 +328,7 @@
 * QNXXQS85AYZZZZ
 * QNXXQS85DYZZZZ
 
-## Kant-S2
+## Samsung Kant-S2
 
 **Platform:** TV
 
@@ -380,7 +380,7 @@
 * UNXXT4300YZZZZ
 * UNXXT5300YZZZZ
 
-## Kant-SU2
+## Samsung Kant-SU2
 
 **Platform:** TV
 
@@ -449,7 +449,7 @@
 * UNXXTU7050ZZZZ
 * UNXXTU7100ZZZZ
 
-## Kant-SU2 (Projector)
+## Samsung Kant-SU2 (Projector)
 
 **Platform:** TV
 
@@ -478,7 +478,7 @@
 * SP-LSTP7AFXKR
 * SP-LSTP9AFXKR
 
-## Kant-M2e
+## Samsung Kant-M2e
 
 **Platform:** TV
 
@@ -591,7 +591,7 @@
 * HGXXNT678UZZZZ
 * HGXXNT690UZZZZ
 
-## Kant-M2e
+## Samsung Kant-M2e
 
 **Platform:** Smart Signage
 
@@ -652,7 +652,7 @@
 * SBB-SNOWJAU/ZA
 * SBB-SS08NL1
 
-## Kant-SU2e
+## Samsung Kant-SU2e
 
 **Platform:** TV
 
@@ -699,7 +699,7 @@
 * UTV-UWS10/A
 * UTV-UWS11/A
 
-## Oscar-P
+## Samsung Oscar-P
 
 **Platform:** TV
 
@@ -731,7 +731,7 @@
 * QNXXQN850AZZZZ
 * QNXXQN900AZZZZ
 
-## Muse-M (Smart Signage)
+## Samsung Muse-M (Smart Signage)
 
 **Platform:** Smart Signage
 
@@ -743,7 +743,7 @@
 
 *No models specified*
 
-## Oscar-P (Smart Signage)
+## Samsung Oscar-P (Smart Signage)
 
 **Platform:** Smart Signage
 
@@ -761,7 +761,7 @@
 * LH85QPA8BGCXXX
 * SBB-SNOWAAE/KR
 
-## Oscar-S
+## Samsung Oscar-S
 
 **Platform:** TV
 
@@ -773,7 +773,7 @@
 
 *No models specified*
 
-## Kant-SU2e (Projector)
+## Samsung Kant-SU2e (Projector)
 
 **Platform:** TV
 
@@ -811,6 +811,42 @@
 **Base model:** Cozyma Massage Chair CMC-TX1
 
 **Original certification date:** 2021-11-04
+
+### Derivatives (2021)
+
+*No models specified*
+
+## Samsung Nike-L
+
+**Platform:** TV
+
+**Base model:** Samsung UHD TV Q60B
+
+**Original certification date:** 2021-12-08
+
+### Derivatives (2021)
+
+*No models specified*
+
+## Samsung Oscar-P
+
+**Platform:** TV
+
+**Base model:** Samsung QLED 8K TV Q800B
+
+**Original certification date:** 2021-12-08
+
+### Derivatives (2021)
+
+*No models specified*
+
+## Samsung Kant SU2e
+
+**Platform:** TV
+
+**Base model:** Samsung UHD TV BU8000
+
+**Original certification date:** 2021-12-08
 
 ### Derivatives (2021)
 

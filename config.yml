@@ -1,8 +1,8 @@
 certifications:
-  - chipset: Nike-L
+  - chipset: Samsung Nike-L
     platform: TV
     version: 5.5
-    signed-cert-pdf: Nike-L-TV-2020-01-15.pdf
+    signed-cert-pdf: Samsung-Nike-L-TV-2020-01-15.pdf
     original-cert-date: 2020-01-15
     base-model: 
     derivatives:
@@ -15,10 +15,10 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
-  - chipset: Nike-L
+  - chipset: Samsung Nike-L
     platform: TV
     version: 6.0
-    signed-cert-pdf: Nike-L-TV-2020-11-30.pdf
+    signed-cert-pdf: Samsung-Nike-L-TV-2020-11-30.pdf
     original-cert-date: 2020-11-30
     base-model: QN65Q60AAFXZA
     derivatives:
@@ -75,10 +75,10 @@ certifications:
           - UNXXAU8200ZZZZ
           - UNXXAU9000ZZZZ
           - QAXXQX1AAJXXZ
-  - chipset: Nike-M
+  - chipset: Samsung Nike-M
     platform: TV
     version: 5.5
-    signed-cert-pdf: Nike-M-TV-2020-01-14.pdf
+    signed-cert-pdf: Samsung-Nike-M-TV-2020-01-14.pdf
     original-cert-date: 2020-01-14
     base-model: QN65Q80TAFXZA
     derivatives:
@@ -268,10 +268,10 @@ certifications:
           - QNXXLST9TYZZZZ
           - GQXXLST9TYZZZZ
           - QEXXLST9TYZZZZ
-  - chipset: Nike-M
+  - chipset: Samsung Nike-M
     platform: TV
     version: 6.0
-    signed-cert-pdf: Nike-M-TV-2021-03-03.pdf
+    signed-cert-pdf: Samsung-Nike-M-TV-2021-03-03.pdf
     original-cert-date: 2021-03-03
     base-model: 
     derivatives:
@@ -284,10 +284,10 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
-  - chipset: Nike-M2
+  - chipset: Samsung Nike-M2
     platform: TV
     version: 6.0
-    signed-cert-pdf: Nike-M2-TV-2020-12-02.pdf
+    signed-cert-pdf: Samsung-Nike-M2-TV-2020-12-02.pdf
     original-cert-date: 2020-12-02
     base-model: QN65Q80AAFXZA
     derivatives:
@@ -355,10 +355,10 @@ certifications:
           - QEXXLS03AYZZZZ
           - QNXXLS03AYZZZZ
           - QAXXQX2AAJXXZ
-  - chipset: Kant-S2
+  - chipset: Samsung Kant-S2
     platform: TV
     version: 5.5
-    signed-cert-pdf: Kant-S2-TV-2020-01-22.pdf
+    signed-cert-pdf: Samsung-Kant-S2-TV-2020-01-22.pdf
     original-cert-date: 2020-01-22
     base-model: UN43T5300AFXZX
     derivatives:
@@ -404,10 +404,10 @@ certifications:
           - UNXXT5300YZZZZ
           - UNXXT4300YZZZZ
           - HGXXT5300ZZZZZ
-  - chipset: Kant-SU2
+  - chipset: Samsung Kant-SU2
     platform: TV
     version: 5.5
-    signed-cert-pdf: Kant-SU2-TV-2020-01-24.pdf
+    signed-cert-pdf: Samsung-Kant-SU2-TV-2020-01-24.pdf
     original-cert-date: 2020-01-24
     base-model: UN65TU7000FXZA
     derivatives:
@@ -470,10 +470,10 @@ certifications:
           - QE32LS03TCUXUA
           - KQ32LST03BFXKR
           - QA32LS03TBJXZK 
-  - chipset: Kant-SU2 (Projector)
+  - chipset: Samsung Kant-SU2 (Projector)
     platform: TV
     version: 5.5
-    signed-cert-pdf: Kant-SU2-Projector-TV-2020-06-11.pdf
+    signed-cert-pdf: Samsung-Kant-SU2-Projector-TV-2020-06-11.pdf
     original-cert-date: 2020-06-11
     base-model: SP-LSTP7AFXKR
     derivatives:
@@ -502,10 +502,10 @@ certifications:
           - SP-LSP9TFAXXY
           - SP-LSP9TGAXZD
           - SP-LSP7TGAXZD
-  - chipset: Kant-M2e
+  - chipset: Samsung Kant-M2e
     platform: TV
     version: 4.0
-    signed-cert-pdf: Kant-M2e-TV-2018-01-24.pdf
+    signed-cert-pdf: Samsung-Kant-M2e-TV-2018-01-24.pdf
     original-cert-date: 2018-01-24
     base-model: UN65NU7100FXZA
     derivatives:
@@ -610,10 +610,10 @@ certifications:
           - HGXXET690UZZZZ
           - HGXXNT690UZZZZ
           - HGXXNT678UZZZZ
-  - chipset: Kant-M2e
+  - chipset: Samsung Kant-M2e
     platform: Smart Signage
     version: 4.0
-    signed-cert-pdf: Kant-M2e-Smart_signage-2020-08-14.pdf
+    signed-cert-pdf: Samsung-Kant-M2e-Smart_signage-2020-08-14.pdf
     original-cert-date: 2018-04-20
     base-model: LH49QMNEBGC
     derivatives:
@@ -674,10 +674,10 @@ certifications:
           - LH85QMREBGCXZA
           - LH50QHREBGCXEN
           - LH24KMATBGCXKR
-  - chipset: Kant-SU2e
+  - chipset: Samsung Kant-SU2e
     platform: TV
     version: 6.0
-    signed-cert-pdf: Kant-SU2e-TV-2021-01-04.pdf
+    signed-cert-pdf: Samsung-Kant-SU2e-TV-2021-01-04.pdf
     original-cert-date: 2021-01-04
     base-model: UN65AU7000FXZX
     derivatives:
@@ -729,10 +729,10 @@ certifications:
           - UNXXAU8000ZZZZ
           - QN32Q60AYZZZZ
           - QN32Q50AYZZZZ
-  - chipset: Oscar-P
+  - chipset: Samsung Oscar-P
     platform: TV
     version: 6.0
-    signed-cert-pdf: Oscar-P-TV-2021-01-05.pdf
+    signed-cert-pdf: Samsung-Oscar-P-TV-2021-01-05.pdf
     original-cert-date: 2021-01-05
     base-model: QN65QN800AFXZA
     derivatives:
@@ -763,10 +763,10 @@ certifications:
           - QNXXQN700AZZZZ
           - MNA110MS1AZZZZ
           - MNA99MS1AYZZZZ
-  - chipset: Muse-M (Smart Signage)
+  - chipset: Samsung Muse-M (Smart Signage)
     platform: Smart Signage
     version: 6.0
-    signed-cert-pdf: Muse-M-Smart_Signage-2021-02-25.pdf
+    signed-cert-pdf: Samsung-Muse-M-Smart_Signage-2021-02-25.pdf
     original-cert-date: 2021-02-25
     base-model: WMA
     derivatives:
@@ -778,10 +778,10 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
-  - chipset: Oscar-P (Smart Signage)
+  - chipset: Samsung Oscar-P (Smart Signage)
     platform: Smart Signage
     version: 6.0
-    signed-cert-pdf: Oscar-P-Smart_Signage-2021-04-01.pdf
+    signed-cert-pdf: Samsung-Oscar-P-Smart_Signage-2021-04-01.pdf
     original-cert-date: 2021-04-01
     base-model:  QP65A-8K
     derivatives:
@@ -798,10 +798,10 @@ certifications:
           - LH75QPA8BGCXXX
           - LH85QPA8BGCXXX
           - LH85QPA8BCCXEN
-  - chipset: Oscar-S
+  - chipset: Samsung Oscar-S
     platform: TV
     version: 6.0
-    signed-cert-pdf: Oscar-S-TV-2021-04-28.pdf
+    signed-cert-pdf: Samsung-Oscar-S-TV-2021-04-28.pdf
     original-cert-date: 2021-04-28
     base-model:  QN700A
     derivatives:
@@ -813,10 +813,10 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
-  - chipset: Kant-SU2e (Projector)
+  - chipset: Samsung Kant-SU2e (Projector)
     platform: TV
     version: 6.0
-    signed-cert-pdf: Kant-SU2e_Projector-TV-2021-08-02.pdf
+    signed-cert-pdf: Samsung-Kant-SU2e_Projector-TV-2021-08-02.pdf
     original-cert-date: 2021-08-02
     base-model:  LSP3
     derivatives:
@@ -855,6 +855,51 @@ certifications:
     signed-cert-pdf: Bokjung_Scale_Co-CMC-IoT-2021-11-04.pdf
     original-cert-date: 2021-11-04
     base-model: Cozyma Massage Chair CMC-TX1
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Nike-L
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Nike-L-TV-2021-12-08.pdf
+    original-cert-date: 2021-12-08
+    base-model: Samsung UHD TV Q60B
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Oscar-P
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Oscar-P-TV-2021-12-08.pdf
+    original-cert-date: 2021-12-08
+    base-model: Samsung QLED 8K TV Q800B
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Kant SU2e
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Kant-SU2e-TV-2021-12-08.pdf
+    original-cert-date: 2021-12-08
+    base-model: Samsung UHD TV BU8000
     derivatives:
       - year: 2021
         legend:
