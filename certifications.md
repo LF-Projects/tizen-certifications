@@ -15,7 +15,7 @@
 * *Y*: Change for additional hardware
 * *ZZZZ*: Country/Market
 
-#### 42 models
+#### 43 models
 
 * GQ43Q72AYZZZZ
 * GQ43Q73AYZZZZ
@@ -28,6 +28,7 @@
 * GUXXAU8079ZZZZ
 * GUXXAU9079ZZZZ
 * GUXXAU9089ZZZZ
+* HGXXAU800YZZZZ
 * KQXXQA60YZZZZ
 * KQXXQA65YZZZZ
 * KUXXUA8000ZZZZ
