@@ -853,3 +853,15 @@
 
 *No models specified*
 
+## Samsung Pontus M
+
+**Platform:** TV
+
+**Base model:** Samsung QLED 4K TV Q70B
+
+**Original certification date:** 2021-12-10
+
+### Derivatives (2021)
+
+*No models specified*
+

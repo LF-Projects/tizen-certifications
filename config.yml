@@ -910,3 +910,18 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
+  - chipset: Samsung Pontus M
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Pontus-M-TV-2021-12-10.pdf
+    original-cert-date: 2021-12-10
+    base-model: Samsung QLED 4K TV Q70B
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
