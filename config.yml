@@ -895,7 +895,7 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
-  - chipset: Samsung Kant SU2e
+  - chipset: Samsung Kant-SU2e
     platform: TV
     version: 6.5
     signed-cert-pdf: Samsung-Kant-SU2e-TV-2021-12-08.pdf
@@ -910,12 +910,27 @@ certifications:
             - XX: Size
             - ZZZZ: Country/Market
         models:
-  - chipset: Samsung Pontus M
+  - chipset: Samsung Pontus-M
     platform: TV
     version: 6.5
     signed-cert-pdf: Samsung-Pontus-M-TV-2021-12-10.pdf
     original-cert-date: 2021-12-10
     base-model: Samsung QLED 4K TV Q70B
+    derivatives:
+      - year: 2021
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Kant-SU2e (Projector)
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Kant-SU2e-Projector-2021-12-16.pdf
+    original-cert-date: 2021-12-16
+    base-model: Samsung Projector LSP3B (Kant-SU2E)
     derivatives:
       - year: 2021
         legend:

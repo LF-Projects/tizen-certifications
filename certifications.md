@@ -841,7 +841,7 @@
 
 *No models specified*
 
-## Samsung Kant SU2e
+## Samsung Kant-SU2e
 
 **Platform:** TV
 
@@ -853,13 +853,25 @@
 
 *No models specified*
 
-## Samsung Pontus M
+## Samsung Pontus-M
 
 **Platform:** TV
 
 **Base model:** Samsung QLED 4K TV Q70B
 
 **Original certification date:** 2021-12-10
+
+### Derivatives (2021)
+
+*No models specified*
+
+## Samsung Kant-SU2e (Projector)
+
+**Platform:** TV
+
+**Base model:** Samsung Projector LSP3B (Kant-SU2E)
+
+**Original certification date:** 2021-12-16
 
 ### Derivatives (2021)
 
