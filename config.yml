@@ -812,6 +812,7 @@ certifications:
           abbreviation: 
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
   - chipset: Samsung Kant-SU2e (Projector)
@@ -848,6 +849,7 @@ certifications:
           abbreviation: 
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
   - chipset: Anchor5 ARM Cortex-A9 Quad-core
@@ -863,6 +865,7 @@ certifications:
           abbreviation: 
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
   - chipset: Samsung Nike-L
@@ -874,12 +877,49 @@ certifications:
     derivatives:
       - year: 2021
         legend:
-          sample: 
-          abbreviation: 
+          sample: QN65Q60BAFXZA
+          abbreviation: QNXXQ60BYZZZZ
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+        - GQXXQ60BYZZZZ
+        - GQXXQ61BYZZZZ
+        - GQXXQ65BYZZZZ
+        - GQXXQ67BYZZZZ
+        - GQXXQ6DBYZZZZ
+        - GQXXQ72BYZZZZ
+        - QAXXQ60BYZZZZ
+        - QAXXQ61BYZZZZ
+        - QAXXQ65BYZZZZ
+        - QAXXQ67BYZZZZ
+        - QAXXQ6DBYZZZZ
+        - QAXXQ72BYZZZZ
+        - QNXXQ60BYZZZZ
+        - QNXXQ61BYZZZZ
+        - QNXXQ65BYZZZZ
+        - QNXXQ67BYZZZZ
+        - QNXXQ6DBYZZZZ
+        - QNXXQ72BYZZZZ
+        - QEXXQ60BYZZZZ
+        - QEXXQ61BYZZZZ
+        - QEXXQ65BYZZZZ
+        - QEXXQ67BYZZZZ
+        - QEXXQ6DBYZZZZ
+        - QEXXQ72BYZZZZ
+        - GQ43Q72BAUXZG
+        - GQ50Q72BAUXZG
+        - KQXXQB60YZZZZ
+        - KQXXQB65YZZZZ
+        - LSXXBM500YZZZZ
+        - LSXXBM501YZZZZ
+        - LSXXBM502YZZZZ
+        - LSXXBM503YZZZZ
+        - LSXXBM700YZZZZ
+        - LSXXBM701YZZZZ
+        - LSXXBM702YZZZZ
+        - LSXXBM703YZZZZ
   - chipset: Samsung Oscar-P
     platform: TV
     version: 6.5
@@ -889,12 +929,29 @@ certifications:
     derivatives:
       - year: 2021
         legend:
-          sample: 
-          abbreviation: 
+          sample: QN65QN800BFXZA
+          abbreviation: QNXXQN800YZZZZ
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+          - GQXXQN800BZZZZ
+          - GQXXQN850BZZZZ
+          - GQXXQN900BZZZZ
+          - QAXXQN800BZZZZ
+          - QAXXQN850BZZZZ
+          - QAXXQN900BZZZZ
+          - QNXXQN800BZZZZ
+          - QNXXQN850BZZZZ
+          - QNXXQN900BZZZZ
+          - QEXXQN800BZZZZ
+          - QEXXQN850BZZZZ
+          - QEXXQN900BZZZZ
+          - KQXXQNB800ZZZZ
+          - KQXXQNB900ZZZZ
+          - KQXXQNB800ZZZZ
+          - KQXXQNB900ZZZZ
   - chipset: Samsung Kant-SU2e
     platform: TV
     version: 6.5
@@ -904,12 +961,39 @@ certifications:
     derivatives:
       - year: 2021
         legend:
-          sample: 
-          abbreviation: 
+          sample: KU65UB8000FXKR
+          abbreviation: KUXXUB800YZZZZ
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+          - GUXXBU8079YZZZZ
+          - KUXXUB8000YZZZZ
+          - KUXXUB8070YZZZZ
+          - KUXXUB8100YZZZZ
+          - UAXXBU8000YZZZZ
+          - UAXXBU8100YZZZZ
+          - UAXXBU8080YZZZZ
+          - UEXXBU8000YZZZZ
+          - UEXXBU8002YZZZZ
+          - UEXXBU8040YZZZZ
+          - UEXXBU8070YZZZZ
+          - UEXXBU8072YZZZZ
+          - GUXXBU8579YZZZZ
+          - GUXXBU8589YZZZZ
+          - KUXXUB8500YZZZZ
+          - UAXXBU8500YZZZZ
+          - UEXXBU8500YZZZZ
+          - UAXXBU8570YZZZZ
+          - UEXXBU8502YZZZZ
+          - UEXXBU8510YZZZZ
+          - UEXXBU8570YZZZZ
+          - UEXXBU8572YZZZZ
+          - UEXXBU8580YZZZZ
+          - UEXXBU8582YZZZZ
+          - UNXXBU8000YZZZZ
+          - UNXXBU8200YZZZZ
   - chipset: Samsung Pontus-M
     platform: TV
     version: 6.5
@@ -919,12 +1003,113 @@ certifications:
     derivatives:
       - year: 2021
         legend:
-          sample: 
-          abbreviation: 
+          sample: KQ65QB70AFXKR
+          abbreviation: KQXXQB70YZZZZ
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+        - GQXXQN95BYZZZZ
+        - GQXXQN90BYZZZZ
+        - GQXXQN92BYZZZZ
+        - GQXXQN93BYZZZZ
+        - GQXXQN94BYZZZZ
+        - GQXXQN91BYZZZZ
+        - GQXXQN9XBYZZZZ
+        - GQXXQN9DBYZZZZ
+        - GQXXQN85BYZZZZ
+        - GQXXQN87BYZZZZ
+        - GQXXQ70BYZZZZ
+        - GQXXQ75BYZZZZ
+        - GQXXQ74BYZZZZ
+        - GQXXQ77BYZZZZ
+        - GQXXQ73BYZZZZ
+        - GQXXQ72BYZZZZ
+        - GQXXQX3BYZZZZ
+        - GQXXQ80BYZZZZ
+        - GQXXQ82BYZZZZ
+        - GQXXQ80BYZZZZ
+        - GQXXQ83BYZZZZ
+        - GQXXQS95BYZZZZ
+        - QAXXQN95BYZZZZ
+        - QAXXQN90BYZZZZ
+        - QAXXQN92BYZZZZ
+        - QAXXQN93BYZZZZ
+        - QAXXQN94BYZZZZ
+        - QAXXQN91BYZZZZ
+        - QAXXQN9XBYZZZZ
+        - QAXXQN9DBYZZZZ
+        - QAXXQN85BYZZZZ
+        - QAXXQN87BYZZZZ
+        - QAXXQ70BYZZZZ
+        - QAXXQ75BYZZZZ
+        - QAXXQ74BYZZZZ
+        - QAXXQ77BYZZZZ
+        - QAXXQ73BYZZZZ
+        - QAXXQ72BYZZZZ
+        - QAXXQX3BYZZZZ
+        - QAXXQ80BYZZZZ
+        - QAXXQ82BYZZZZ
+        - QAXXQ80BYZZZZ
+        - QAXXQ83BYZZZZ
+        - QAXXQS95BYZZZZ
+        - QEXXQN95BYZZZZ
+        - QEXXQN90BYZZZZ
+        - QEXXQN92BYZZZZ
+        - QEXXQN93BYZZZZ
+        - QEXXQN94BYZZZZ
+        - QEXXQN91BYZZZZ
+        - QEXXQN9XBYZZZZ
+        - QEXXQN9DBYZZZZ
+        - QEXXQN85BYZZZZ
+        - QEXXQN87BYZZZZ
+        - QEXXQ70BYZZZZ
+        - QEXXQ75BYZZZZ
+        - QEXXQ74BYZZZZ
+        - QEXXQ77BYZZZZ
+        - QEXXQ73BYZZZZ
+        - QEXXQ72BYZZZZ
+        - QEXXQX3BYZZZZ
+        - QEXXQ80BYZZZZ
+        - QEXXQ82BYZZZZ
+        - QEXXQ80BYZZZZ
+        - QEXXQ83BYZZZZ
+        - QEXXQS95BYZZZZ
+        - QNXXQN95BYZZZZ
+        - QNXXQN90BYZZZZ
+        - QNXXQN92BYZZZZ
+        - QNXXQN93BYZZZZ
+        - QNXXQN94BYZZZZ
+        - QNXXQN91BYZZZZ
+        - QNXXQN9XBYZZZZ
+        - QNXXQN9DBYZZZZ
+        - QNXXQN85BYZZZZ
+        - QNXXQN87BYZZZZ
+        - QNXXQ70BYZZZZ
+        - QNXXQ75BYZZZZ
+        - QNXXQ74BYZZZZ
+        - QNXXQ77BYZZZZ
+        - QNXXQ73BYZZZZ
+        - QNXXQ72BYZZZZ
+        - QNXXQX3BYZZZZ
+        - QNXXQ80BYZZZZ
+        - QNXXQ82BYZZZZ
+        - QNXXQ80BYZZZZ
+        - QNXXQ83BYZZZZ
+        - QNXXQS95BYZZZZ
+        - KQXXQNB95YZZZZ
+        - KQXXQNB90YZZZZ
+        - KQXXQNB83YZZZZ
+        - KQXXQNB85YZZZZ
+        - KQXXQNB88YZZZZ
+        - KQXXQB70YZZZZ
+        - KQXXQB80YZZZZ
+        - GQXXLS03BYZZZZ
+        - QNXXLS03BYZZZZ
+        - QAXXLS03BYZZZZ
+        - QEXXLS03BYZZZZ
+        - KQXXLSB03YZZZZ
   - chipset: Samsung Kant-SU2e (Projector)
     platform: TV
     version: 6.5
@@ -938,5 +1123,6 @@ certifications:
           abbreviation: 
           reference:
             - XX: Size
+            - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
