@@ -825,7 +825,7 @@
 
 **Original certification date:** 2021-12-08
 
-### Derivatives (2021)
+### Derivatives (2022)
 
 **QN65Q60BAFXZA** » **QNXXQ60BYZZZZ**
 
@@ -880,7 +880,7 @@
 
 **Original certification date:** 2021-12-08
 
-### Derivatives (2021)
+### Derivatives (2022)
 
 **QN65QN800BFXZA** » **QNXXQN800YZZZZ**
 
@@ -913,7 +913,7 @@
 
 **Original certification date:** 2021-12-08
 
-### Derivatives (2021)
+### Derivatives (2022)
 
 **KU65UB8000FXKR** » **KUXXUB800YZZZZ**
 
@@ -958,7 +958,7 @@
 
 **Original certification date:** 2021-12-10
 
-### Derivatives (2021)
+### Derivatives (2022)
 
 **KQ65QB70AFXKR** » **KQXXQB70YZZZZ**
 
@@ -966,7 +966,7 @@
 * *Y*: Change for additional hardware
 * *ZZZZ*: Country/Market
 
-#### 96 models
+#### 98 models
 
 * GQXXLS03BYZZZZ
 * GQXXQ70BYZZZZ
@@ -998,6 +998,8 @@
 * KQXXQNB88YZZZZ
 * KQXXQNB90YZZZZ
 * KQXXQNB95YZZZZ
+* LSXXBM801YZZZZ
+* LSXXBM803YZZZZ
 * QAXXLS03BYZZZZ
 * QAXXQ70BYZZZZ
 * QAXXQ72BYZZZZ
@@ -1073,7 +1075,7 @@
 
 **Original certification date:** 2021-12-16
 
-### Derivatives (2021)
+### Derivatives (2022)
 
 *No models specified*
 

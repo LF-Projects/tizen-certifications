@@ -875,7 +875,7 @@ certifications:
     original-cert-date: 2021-12-08
     base-model: Samsung UHD TV Q60B
     derivatives:
-      - year: 2021
+      - year: 2022
         legend:
           sample: QN65Q60BAFXZA
           abbreviation: QNXXQ60BYZZZZ
@@ -927,7 +927,7 @@ certifications:
     original-cert-date: 2021-12-08
     base-model: Samsung QLED 8K TV Q800B
     derivatives:
-      - year: 2021
+      - year: 2022
         legend:
           sample: QN65QN800BFXZA
           abbreviation: QNXXQN800YZZZZ
@@ -959,7 +959,7 @@ certifications:
     original-cert-date: 2021-12-08
     base-model: Samsung UHD TV BU8000
     derivatives:
-      - year: 2021
+      - year: 2022
         legend:
           sample: KU65UB8000FXKR
           abbreviation: KUXXUB800YZZZZ
@@ -1001,7 +1001,7 @@ certifications:
     original-cert-date: 2021-12-10
     base-model: Samsung QLED 4K TV Q70B
     derivatives:
-      - year: 2021
+      - year: 2022
         legend:
           sample: KQ65QB70AFXKR
           abbreviation: KQXXQB70YZZZZ
@@ -1110,6 +1110,8 @@ certifications:
         - QAXXLS03BYZZZZ
         - QEXXLS03BYZZZZ
         - KQXXLSB03YZZZZ
+        - LSXXBM801YZZZZ
+        - LSXXBM803YZZZZ
   - chipset: Samsung Kant-SU2e (Projector)
     platform: TV
     version: 6.5
@@ -1117,7 +1119,7 @@ certifications:
     original-cert-date: 2021-12-16
     base-model: Samsung Projector LSP3B (Kant-SU2E)
     derivatives:
-      - year: 2021
+      - year: 2022
         legend:
           sample: 
           abbreviation: 
