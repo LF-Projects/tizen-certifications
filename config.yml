@@ -764,6 +764,15 @@ certifications:
           - QNXXQN700AZZZZ
           - MNA110MS1AZZZZ
           - MNA99MS1AYZZZZ
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+          - SBB-MBOXACE/ZZ
   - chipset: Samsung Muse-M (Smart Signage)
     platform: Smart Signage
     version: 6.0
@@ -994,6 +1003,7 @@ certifications:
           - UEXXBU8582YZZZZ
           - UNXXBU8000YZZZZ
           - UNXXBU8200YZZZZ
+          - UEXXBU8005ZZZZ
   - chipset: Samsung Pontus-M
     platform: TV
     version: 6.5
@@ -1112,6 +1122,21 @@ certifications:
         - KQXXLSB03YZZZZ
         - LSXXBM801YZZZZ
         - LSXXBM803YZZZZ
+        - GQXXLS03BYZZZZ
+        - QAXXLS03BYZZZZ
+        - KQXXLSB03YZZZZ
+        - QEXXLS03BYZZZZ
+        - QNXXLS03BYZZZZ
+        - GQXXLS01BYZZZZ
+        - KQXXLSB01YZZZZ
+        - QAXXLS01BYZZZZ
+        - QNXXLS01BYZZZZ
+        - QEXXLS01BYZZZZ
+        - GQXXLS05BYZZZZ
+        - KQXXLSB05YZZZZ
+        - QAXXLS05BYZZZZ
+        - QNXXLS05BYZZZZ
+        - QEXXLS05BYZZZZ
   - chipset: Samsung Kant-SU2e (Projector)
     platform: TV
     version: 6.5
