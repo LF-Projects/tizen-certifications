@@ -768,7 +768,7 @@
 * LH85QPA8BGCXXX
 * SBB-SNOWAAE/KR
 
-## Samsung Oscar-S
+## Samsung Oscar-S (QN700A)
 
 **Platform:** TV
 
@@ -1091,6 +1091,30 @@
 **Base model:** Samsung Projector LSP3B (Kant-SU2E)
 
 **Original certification date:** 2021-12-16
+
+### Derivatives (2022)
+
+*No models specified*
+
+## Samsung Oscar-S (Q700B)
+
+**Platform:** TV
+
+**Base model:** Q700B
+
+**Original certification date:** 2022-01-14
+
+### Derivatives (2022)
+
+*No models specified*
+
+## Samsung Pontus-M Signage (QHB)
+
+**Platform:** TV
+
+**Base model:** QHB
+
+**Original certification date:** 2022-01-14
 
 ### Derivatives (2022)
 

@@ -808,10 +808,10 @@ certifications:
           - LH75QPA8BGCXXX
           - LH85QPA8BGCXXX
           - LH85QPA8BCCXEN
-  - chipset: Samsung Oscar-S
+  - chipset: Samsung Oscar-S (QN700A)
     platform: TV
     version: 6.0
-    signed-cert-pdf: Samsung-Oscar-S-TV-2021-04-28.pdf
+    signed-cert-pdf: Samsung-Oscar-S-QN700A-TV-2021-04-28.pdf
     original-cert-date: 2021-04-28
     base-model:  QN700A
     derivatives:
@@ -1143,6 +1143,38 @@ certifications:
     signed-cert-pdf: Samsung-Kant-SU2e-Projector-2021-12-16.pdf
     original-cert-date: 2021-12-16
     base-model: Samsung Projector LSP3B (Kant-SU2E)
+    derivatives:
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Oscar-S (Q700B)
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Oscar-S-Q700B-TV-2022-01-14.pdf
+    original-cert-date: 2022-01-14
+    base-model:  Q700B
+    derivatives:
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+  - chipset: Samsung Pontus-M Signage (QHB)
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Pontus-M-Signage-TV-2022-01-14.pdf
+    original-cert-date: 2022-01-14
+    base-model:  QHB
     derivatives:
       - year: 2022
         legend:
