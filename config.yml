@@ -1137,6 +1137,9 @@ certifications:
         - QAXXLS05BYZZZZ
         - QNXXLS05BYZZZZ
         - QEXXLS05BYZZZZ
+        - LSXXBM80GYZZZZ
+        - LSXXBM80BYZZZZ
+        - LSXXBM80PYZZZZ
   - chipset: Samsung Kant-SU2e (Projector)
     platform: TV
     version: 6.5
@@ -1169,6 +1172,11 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+          - GQXXQN700BZZZZ
+          - QAXXQN700BZZZZ
+          - QEXXQN700BZZZZ
+          - QNXXQN700BZZZZ
+          - KQXXQNB700ZZZZ
   - chipset: Samsung Pontus-M Signage (QHB)
     platform: Smart Signage
     version: 6.5

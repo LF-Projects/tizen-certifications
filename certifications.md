@@ -973,7 +973,7 @@
 * *Y*: Change for additional hardware
 * *ZZZZ*: Country/Market
 
-#### 108 models
+#### 111 models
 
 * GQXXLS01BYZZZZ
 * GQXXLS03BYZZZZ
@@ -1011,6 +1011,9 @@
 * KQXXQNB95YZZZZ
 * LSXXBM801YZZZZ
 * LSXXBM803YZZZZ
+* LSXXBM80BYZZZZ
+* LSXXBM80GYZZZZ
+* LSXXBM80PYZZZZ
 * QAXXLS01BYZZZZ
 * QAXXLS03BYZZZZ
 * QAXXLS05BYZZZZ
@@ -1106,7 +1109,13 @@
 
 ### Derivatives (2022)
 
-*No models specified*
+#### 5 models
+
+* GQXXQN700BZZZZ
+* KQXXQNB700ZZZZ
+* QAXXQN700BZZZZ
+* QEXXQN700BZZZZ
+* QNXXQN700BZZZZ
 
 ## Samsung Pontus-M Signage (QHB)
 
