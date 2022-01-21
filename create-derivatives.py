@@ -53,9 +53,10 @@ for config,config_data in all_certifications.items():
 
       # Add a title and subtitle
       pdf.set_font('Arial','b',24)
-      pdf.cell(0,.65,'%s %s Derivatives' % (certification['chipset'],certification['platform']), 0, 2, 'C')
+      pdf.cell(0,.65,certification['chipset'], 0, 2, 'C')
+      pdf.cell(0,.35,'%s Derivatives' % (certification['platform']), 0, 2, 'C')
       pdf.set_font('Arial','b',20)
-      pdf.cell(0,.35,'Tizen %s' % certification['version'], 0, 2, 'C')
+      pdf.cell(0,.85,'Tizen %s' % certification['version'], 0, 2, 'C')
 
       # Indicate the base model
       pdf.ln(.75)
