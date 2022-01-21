@@ -1170,7 +1170,7 @@ certifications:
             - ZZZZ: Country/Market
         models:
   - chipset: Samsung Pontus-M Signage (QHB)
-    platform: TV
+    platform: Smart Signage
     version: 6.5
     signed-cert-pdf: Samsung-Pontus-M-Signage-TV-2022-01-14.pdf
     original-cert-date: 2022-01-14
@@ -1185,3 +1185,23 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
+          - LH43QHBEBGCXEN
+          - LH50QHBEBGCXEN
+          - LH55QHBEBGCXEN
+          - LH65QHBEBGCXEN
+          - LH75QHBEBGCXEN
+          - LH43QMBEBGCXEN
+          - LH43QMBEPGCXEN
+          - LH50QMBEBGCXEN
+          - LH55QMBEBGCXEN
+          - LH65QMBEBGCXEN
+          - LH75QMBEBGCXEN
+          - LH65QMBEBCCXEN
+          - LH43QBBEBGCXEN
+          - LH50QBBEBGCXEN
+          - LH55QBBEBGCXEN
+          - LH65QBBEBGCXEN
+          - LH75QBBEBGCXEN
+          - LH55QBBNBGCXGO
+          - LH65QBBNBGCXGO
+          - LH75QBBNBGCXGO
