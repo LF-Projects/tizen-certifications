@@ -775,6 +775,42 @@ certifications:
           - SBB-MBOXACE/ZZ
   - chipset: Samsung Muse-M (Smart Signage)
     platform: Smart Signage
+    version: 5.0
+    signed-cert-pdf: Samsung-Muse-M-Smart_Signage-2019-05-03.pdf
+    original-cert-date: 2019-05-03
+    base-model: QPR-8K
+    derivatives:
+      - year: 2019
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:
+          - LH65WMRWBGCXEN
+          - LH98QPR8BGC
+          - LH82QEREBGC
+          - LH75OMREBGB
+          - LH55WMRWBGCXEN
+          - LH85WMRWLGCXEN
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZZZ: Country/Market
+        models:        
+          - LHXXOHAEBGBXZZ
+          - LHXXOMAEBGBXZZ
+          - LHXXOHAESGBXZZ
+          - LHXXOMNESGBXZZ
+          - LHXXOHBEBGBXZZ
+          - LHXXOMBEBGBXZZ
+          - LHXXOMNDSGBXZZ
+  - chipset: Samsung Muse-M (Smart Signage)
+    platform: Smart Signage
     version: 6.0
     signed-cert-pdf: Samsung-Muse-M-Smart_Signage-2021-02-25.pdf
     original-cert-date: 2021-02-25
@@ -1186,30 +1222,16 @@ certifications:
     derivatives:
       - year: 2022
         legend:
-          sample: 
-          abbreviation: 
+          sample: LH75QHBEBGCXEN
+          abbreviation: LHXXQHBEBGCXZZ
           reference:
             - XX: Size
-            - Y: Change for additional hardware
-            - ZZZZ: Country/Market
+            - ZZ: Country/Market
         models:
-          - LH43QHBEBGCXEN
-          - LH50QHBEBGCXEN
-          - LH55QHBEBGCXEN
-          - LH65QHBEBGCXEN
-          - LH75QHBEBGCXEN
-          - LH43QMBEBGCXEN
-          - LH43QMBEPGCXEN
-          - LH50QMBEBGCXEN
-          - LH55QMBEBGCXEN
-          - LH65QMBEBGCXEN
-          - LH75QMBEBGCXEN
-          - LH65QMBEBCCXEN
-          - LH43QBBEBGCXEN
-          - LH50QBBEBGCXEN
-          - LH55QBBEBGCXEN
-          - LH65QBBEBGCXEN
-          - LH75QBBEBGCXEN
-          - LH55QBBNBGCXGO
-          - LH65QBBNBGCXGO
-          - LH75QBBNBGCXGO
+          - LHXXQHBEBGCXZZ
+          - LHXXQMBEBGCXZZ
+          - LHXXQMBEPGCXZZ
+          - LHXXQMBEBCCXZZ
+          - LHXXQBBEBGCXZZ
+          - LHXXQBBNBGCXZZ
+          - LHXXWMBWLGCXZZ
