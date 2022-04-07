@@ -1239,3 +1239,21 @@ certifications:
           - LH016IABMHS/ZZ
           - LH008IABMUS/ZZ
           - LH012IABMHS/ZZ
+  - chipset: Samsung Kant-SU2E
+    platform: TV (reference platform)
+    version: 6.0
+    signed-cert-pdf: Samsung-Kant-SU2E-Reference-TV-2022-04-07.pdf
+    original-cert-date: 2022-04-07
+    base-model: 21NVTRef4K_001 (Reference model)
+    derivatives:
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: 
+          reference:
+            - XX: Size
+            - ZZ: Country/Market
+        models:
+          - T-21KTSU2EATMDEUC (ATMACA)
+          - T-21KTSU2EHKCDEUC (HKC)
+          - T-21KTSU2ETPOUABC (TEMPO)

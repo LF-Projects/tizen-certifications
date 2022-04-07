@@ -1177,3 +1177,19 @@
 * LHXXQMBEPGCXZZ
 * LHXXWMBWLGCXZZ
 
+## Samsung Kant-SU2E
+
+**Platform:** TV (reference platform)
+
+**Base model:** 21NVTRef4K_001 (Reference model)
+
+**Original certification date:** 2022-04-07
+
+### Derivatives (2022)
+
+#### 3 models
+
+* T-21KTSU2EATMDEUC (ATMACA)
+* T-21KTSU2EHKCDEUC (HKC)
+* T-21KTSU2ETPOUABC (TEMPO)
+
