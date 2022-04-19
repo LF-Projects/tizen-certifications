@@ -76,6 +76,59 @@ certifications:
           - UNXXAU9000ZZZZ
           - QAXXQX1AAJXXZ
           - HGXXAU800YZZZZ
+  - chipset: Samsung Nike-L
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Nike-L-TV-2021-12-08.pdf
+    original-cert-date: 2021-12-08
+    base-model: Samsung UHD TV Q60B
+    derivatives:
+      - year: 2022
+        legend:
+          sample: QN65Q60BAFXZA
+          abbreviation: QNXXQ60BYZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
+        - GQXXQ60BYZZZZ
+        - GQXXQ61BYZZZZ
+        - GQXXQ65BYZZZZ
+        - GQXXQ67BYZZZZ
+        - GQXXQ6DBYZZZZ
+        - GQXXQ72BYZZZZ
+        - QAXXQ60BYZZZZ
+        - QAXXQ61BYZZZZ
+        - QAXXQ65BYZZZZ
+        - QAXXQ67BYZZZZ
+        - QAXXQ6DBYZZZZ
+        - QAXXQ72BYZZZZ
+        - QNXXQ60BYZZZZ
+        - QNXXQ61BYZZZZ
+        - QNXXQ65BYZZZZ
+        - QNXXQ67BYZZZZ
+        - QNXXQ6DBYZZZZ
+        - QNXXQ72BYZZZZ
+        - QEXXQ60BYZZZZ
+        - QEXXQ61BYZZZZ
+        - QEXXQ65BYZZZZ
+        - QEXXQ67BYZZZZ
+        - QEXXQ6DBYZZZZ
+        - QEXXQ72BYZZZZ
+        - GQ43Q72BAUXZG
+        - GQ50Q72BAUXZG
+        - KQXXQB60YZZZZ
+        - KQXXQB65YZZZZ
+        - LSXXBM500YZZZZ
+        - LSXXBM501YZZZZ
+        - LSXXBM502YZZZZ
+        - LSXXBM503YZZZZ
+        - LSXXBM700YZZZZ
+        - LSXXBM701YZZZZ
+        - LSXXBM702YZZZZ
+        - LSXXBM703YZZZZ
+        - HGXXBU800ZZZZZ
   - chipset: Samsung Nike-M
     platform: TV
     version: 5.5
@@ -913,58 +966,6 @@ certifications:
             - Y: Change for additional hardware
             - ZZZZ: Country/Market
         models:
-  - chipset: Samsung Nike-L
-    platform: TV
-    version: 6.5
-    signed-cert-pdf: Samsung-Nike-L-TV-2021-12-08.pdf
-    original-cert-date: 2021-12-08
-    base-model: Samsung UHD TV Q60B
-    derivatives:
-      - year: 2022
-        legend:
-          sample: QN65Q60BAFXZA
-          abbreviation: QNXXQ60BYZZZZ
-          reference:
-            - XX: Size
-            - Y: Change for additional hardware
-            - ZZZZ: Country/Market
-        models:
-        - GQXXQ60BYZZZZ
-        - GQXXQ61BYZZZZ
-        - GQXXQ65BYZZZZ
-        - GQXXQ67BYZZZZ
-        - GQXXQ6DBYZZZZ
-        - GQXXQ72BYZZZZ
-        - QAXXQ60BYZZZZ
-        - QAXXQ61BYZZZZ
-        - QAXXQ65BYZZZZ
-        - QAXXQ67BYZZZZ
-        - QAXXQ6DBYZZZZ
-        - QAXXQ72BYZZZZ
-        - QNXXQ60BYZZZZ
-        - QNXXQ61BYZZZZ
-        - QNXXQ65BYZZZZ
-        - QNXXQ67BYZZZZ
-        - QNXXQ6DBYZZZZ
-        - QNXXQ72BYZZZZ
-        - QEXXQ60BYZZZZ
-        - QEXXQ61BYZZZZ
-        - QEXXQ65BYZZZZ
-        - QEXXQ67BYZZZZ
-        - QEXXQ6DBYZZZZ
-        - QEXXQ72BYZZZZ
-        - GQ43Q72BAUXZG
-        - GQ50Q72BAUXZG
-        - KQXXQB60YZZZZ
-        - KQXXQB65YZZZZ
-        - LSXXBM500YZZZZ
-        - LSXXBM501YZZZZ
-        - LSXXBM502YZZZZ
-        - LSXXBM503YZZZZ
-        - LSXXBM700YZZZZ
-        - LSXXBM701YZZZZ
-        - LSXXBM702YZZZZ
-        - LSXXBM703YZZZZ
   - chipset: Samsung Oscar-P
     platform: TV
     version: 6.5
