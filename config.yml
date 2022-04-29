@@ -1240,6 +1240,7 @@ certifications:
           - LH016IABMHS/ZZ
           - LH008IABMUS/ZZ
           - LH012IABMHS/ZZ
+          - LHXXWMBWBGCXZZ
   - chipset: Samsung Kant-SU2E
     platform: TV (reference platform)
     version: 6.0

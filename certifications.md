@@ -1165,7 +1165,7 @@
 * *XX*: Size
 * *ZZ*: Country/Market
 
-#### 10 models
+#### 11 models
 
 * LH008IABMUS/ZZ
 * LH012IABMHS/ZZ
@@ -1176,6 +1176,7 @@
 * LHXXQMBEBCCXZZ
 * LHXXQMBEBGCXZZ
 * LHXXQMBEPGCXZZ
+* LHXXWMBWBGCXZZ
 * LHXXWMBWLGCXZZ
 
 ## Samsung Kant-SU2E
