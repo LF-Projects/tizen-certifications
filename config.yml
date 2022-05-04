@@ -744,6 +744,16 @@ certifications:
           - LH85QMREBGCXZA
           - LH50QHREBGCXEN
           - LH24KMATBGCXKR
+          - LHXXQBREBGC
+          - LHXXQBRBBGC
+          - LHXXQMREBGC
+          - LHXXQMRABGC
+          - LHXXQMRBBGC
+          - LHXXQETELGC
+          - LHXXQMTEPGC
+          - LHXXQBTEPGC
+          - LHXXQBRTBGC
+          - LHXXQMRTBGC
   - chipset: Samsung Kant-SU2e
     platform: TV
     version: 6.0
@@ -863,6 +873,7 @@ certifications:
           - LH75OMREBGB
           - LH55WMRWBGCXEN
           - LH85WMRWLGCXEN
+          - LHXXOHAOSGBXZZ
       - year: 2022
         legend:
           sample: 
@@ -1257,6 +1268,7 @@ certifications:
           - LH008IABMUS/ZZ
           - LH012IABMHS/ZZ
           - LHXXWMBWBGCXZZ
+          - LHXXQMBTBGCXZZ
   - chipset: Samsung Kant-SU2E
     platform: TV (reference platform)
     version: 6.0
