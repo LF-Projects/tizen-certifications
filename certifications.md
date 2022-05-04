@@ -385,6 +385,18 @@
 * QNXXQS85AYZZZZ
 * QNXXQS85DYZZZZ
 
+## Samsung Nike-M2
+
+**Platform:** TV
+
+**Base model:** QN65Q80AAFXZA
+
+**Original certification date:** 2022-04-29
+
+### Derivatives (2022)
+
+*No models specified*
+
 ## Samsung Kant-S2
 
 **Platform:** TV

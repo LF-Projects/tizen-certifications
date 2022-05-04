@@ -409,6 +409,22 @@ certifications:
           - QEXXLS03AYZZZZ
           - QNXXLS03AYZZZZ
           - QAXXQX2AAJXXZ
+  - chipset: Samsung Nike-M2
+    platform: TV
+    version: 6.5
+    signed-cert-pdf: Samsung-Nike-M2-TV-2022-04-29.pdf
+    original-cert-date: 2022-04-29
+    base-model: QN65Q80AAFXZA
+    derivatives:
+      - year: 2022
+        legend:
+          sample: 
+          abbreviation: QNXXQ80AYZZZZ
+          reference:
+            - XX: Size
+            - Y: Change for additional hardware
+            - ZZZZ: Country/Market
+        models:
   - chipset: Samsung Kant-S2
     platform: TV
     version: 5.5
